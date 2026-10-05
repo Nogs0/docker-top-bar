@@ -1,0 +1,6 @@
+{
+  "uuid": "docker-top-bar@nogueira",
+  "name": "Docker Top Bar",
+  "description": "Verificar containers em funcionamento",
+  "shell-version": [ "50" ]
+}
